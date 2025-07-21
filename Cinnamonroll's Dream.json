@@ -9,16 +9,16 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#FBFBFF"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#B8C1C8"
+      "#C0C8CF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFF"
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#B8C1C8"
+      "#C0C8CF"
     ],
     "INTERACTIVE_NORMAL": [
       "#E1D4C5"
@@ -27,7 +27,7 @@
       "#A8D1E5"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FBFBFF"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
       "#a2acb3"
@@ -74,6 +74,9 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(0, 0, 0, 0.2)"
     ],
+    "MENTION_FOREGROUND": [
+        "#F7C5D4"
+    ],
     "SCROLLBAR_THIN_THUMB": [
       "#A8D1E5"
     ],
@@ -102,7 +105,7 @@
       "#222834"
     ],
     "CHANNEL_ICON": [
-      "#B8C1C8"
+      "#C0C8CF"
     ],
     "CHAT_BACKGROUND": [
       "#2A3241"
@@ -128,10 +131,10 @@
   },
   "rawColors": {
     "PRIMARY_500": "#A8D1E5",
-    "PRIMARY_100": "#FBFBFF",
+    "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#E1D4C5",
     "PRIMARY_300": "#A8D1E5",
-    "PRIMARY_360": "#B8C1C8",
+    "PRIMARY_360": "#C0C8CF",
     "PRIMARY_400": "#A8D1E5",
     "PRIMARY_600": "#2A3241",
     "PRIMARY_630": "#242B38",
@@ -145,12 +148,12 @@
     "YELLOW_300": "#E1D4C5",
     "GREEN_600": "#E1D4C5",
     "RED_400": "#F7C5D4",
-    "WHITE_500": "#FBFBFF"
+    "WHITE_500": "#FFFFFF"
   },
   "background": {
     "blur": 0,
-    "url": "https://i.pinimg.com/originals/c8/2c/79/c82c79a4073359d646b1981429909b02.jpg",
-    "alpha": 0.3
+    "url": "https://github.com/zryr/Themes/raw/main/1000024277.jpg",
+    "alpha": 0.35
   },
   "plus": {
     "version": "0",
@@ -163,7 +166,7 @@
       "arrow-down": "#A8D1E5",
       "ArrowLargeLeftIcon": "#A8D1E5",
       "arrow-sm-down": "#A8D1E5",
-      "AtIcon": "#E1D4C5",
+      "AtIcon": "#F7C5D4",
       "Audio": "#A8D1E5",
       "back-icon": "#A8D1E5",
       "CircleExclamationPointIcon": "#F7C5D4",
@@ -192,9 +195,9 @@
       "ic_ban_24px": "#F7C5D4",
       "ic_big_arrow_down": "#A8D1E5",
       "ic_call_ended": "#F7C5D4",
-      "ic_chat_bubble_12px": "#B8C1C8",
-      "ic_chat_bubble_16px": "#B8C1C8",
-      "ic_chat_bubble_32px": "#B8C1C8",
+      "ic_chat_bubble_12px": "#C0C8CF",
+      "ic_chat_bubble_16px": "#C0C8CF",
+      "ic_chat_bubble_32px": "#C0C8CF",
       "ic_check": "#E1D4C5",
       "ic_check__overlay": "#2A3241",
       "ic_chevron_down_24px": "#A8D1E5",
@@ -207,37 +210,37 @@
       "ic_close_18px": "#F7C5D4",
       "ic_close_24px": "#F7C5D4",
       "ic_crown_16px": "#E1D4C5",
-      "ic_dm": "#B8C1C8",
+      "ic_dm": "#C0C8CF",
       "ic_download_24px": "#E1D4C5",
       "ic_double_down_arrow": "#A8D1E5",
       "ic_duplicate": "#E1D4C5",
       "ic_edit_20px": "#E1D4C5",
       "ic_edit_24px": "#E1D4C5",
       "ic_expand_more_24px": "#A8D1E5",
-      "ic_filter": "#B8C1C8",
+      "ic_filter": "#C0C8CF",
       "ic_friends_list_24px": "#A8D1E5",
       "ic_friend_wave_24px": "#A8D1E5",
-      "ic_gear": "#B8C1C8",
+      "ic_gear": "#C0C8CF",
       "ic_gif_24px": "#A8D1E5",
       "ic_gift": "#E1D4C5",
       "ic_gift_24px": "#E1D4C5",
-      "ic_group_dm": "#B8C1C8",
+      "ic_group_dm": "#C0C8CF",
       "ic_group_edit_18px": "#E1D4C5",
       "ic_header_members_add_24px": "#E1D4C5",
-      "ic_help_24px": "#B8C1C8",
+      "ic_help_24px": "#C0C8CF",
       "ic_info_24px": "#A8D1E5",
       "ic_invite": "#E1D4C5",
       "ic_jump_to_bottom_24px": "#A8D1E5",
       "ic_launch": "#A8D1E5",
       "ic_link": "#A8D1E5",
       "ic_link_24px": "#A8D1E5",
-      "ic_locale_24px": "#B8C1C8",
+      "ic_locale_24px": "#C0C8CF",
       "ic_logout_24px": "#F7C5D4",
       "ic_mark_unread": "#F7C5D4",
-      "ic_members": "#B8C1C8",
-      "ic_members_24px": "#B8C1C8",
-      "ic_mention_24px": "#E1D4C5",
-      "ic_mention_user": "#E1D4C5",
+      "ic_members": "#C0C8CF",
+      "ic_members_24px": "#C0C8CF",
+      "ic_mention_24px": "#F7C5D4",
+      "ic_mention_user": "#F7C5D4",
       "ic_message_copy": "#E1D4C5",
       "ic_message_delete": "#F7C5D4",
       "ic_message_edit": "#E1D4C5",
@@ -245,15 +248,15 @@
       "ic_mic_neutral": "#A8D1E5",
       "ic_mic_muted_neutral": "#F7C5D4",
       "ic_minimize": "#A8D1E5",
-      "ic_my_account_24px": "#B8C1C8",
-      "ic_notification_settings": "#B8C1C8",
-      "ic_notification_settings_24px": "#B8C1C8",
+      "ic_my_account_24px": "#C0C8CF",
+      "ic_notification_settings": "#C0C8CF",
+      "ic_notification_settings_24px": "#C0C8CF",
       "ic_pencil_24px": "#E1D4C5",
       "ic_person_add": "#E1D4C5",
       "ic_person_add_18px": "#E1D4C5",
       "ic_person_waving": "#A8D1E5",
       "ic_privacy_24px": "#F7C5D4",
-      "ic_profile_24px": "#B8C1C8",
+      "ic_profile_24px": "#C0C8CF",
       "ic_radio_circle_checked": "#A8D1E5",
       "ic_radio_circle_checked__overlay": "#2A3241",
       "ic_radio_square_24px": "#A8D1E5",
@@ -265,13 +268,13 @@
       "ic_robot_24px": "#A8D1E5",
       "ic_selection_checked_24px": "#A8D1E5",
       "ic_selection_checked_24px__overlay": "#2A3241",
-      "ic_selection_none_24px": "#B8C1C8",
+      "ic_selection_none_24px": "#C0C8CF",
       "ic_search_24px": "#A8D1E5",
       "ic_search_items_24px": "#A8D1E5",
-      "ic_settings": "#B8C1C8",
+      "ic_settings": "#C0C8CF",
       "ic_settings_boost_24px": "#F7C5D4",
-      "ic_settings_white_24px": "#B8C1C8",
-      "ic_settings_grey_24px": "#B8C1C8",
+      "ic_settings_white_24px": "#C0C8CF",
+      "ic_settings_grey_24px": "#C0C8CF",
       "ic_show_password": "#A8D1E5",
       "ic_soundboard": "#A8D1E5",
       "ic_soundboard_muted": "#F7C5D4",
@@ -290,18 +293,18 @@
       "icon-qs-links": "#A8D1E5",
       "icon-search": "#A8D1E5",
       "KeyIcon": "#F7C5D4",
-      "LanguageIcon": "#B8C1C8",
+      "LanguageIcon": "#C0C8CF",
       "LinkIcon": "#A8D1E5",
       "MagnifyingGlassIcon": "#A8D1E5",
       "member_list_badge_16px": "#E1D4C5",
-      "Messages": "#B8C1C8",
+      "Messages": "#C0C8CF",
       "pencil": "#E1D4C5",
       "PencilIcon": "#E1D4C5",
       "PhoneCallIcon": "#A8D1E5",
       "pipit": "#A8D1E5",
       "ScreenIcon": "#A8D1E5",
-      "settings": "#B8C1C8",
-      "SettingsIcon": "#B8C1C8",
+      "settings": "#C0C8CF",
+      "SettingsIcon": "#C0C8CF",
       "search": "#A8D1E5",
       "Search": "#A8D1E5",
       "ShieldIcon": "#F7C5D4",
