@@ -1,5 +1,5 @@
 {
-  "name": "Cinnamoroll's Dream v7.0",
+  "name": "Cinnamoroll's Dream v8.0",
   "description": "A soft and cute theme based on Sanrio's Cinnamoroll with vibrant, readable accents.",
   "authors": [
     {
@@ -176,8 +176,59 @@
     "BRAND_560": "#A8D1E5",
     "YELLOW_300": "#F3C48C",
     "GREEN_600": "#F3C48C",
-    "RED_400": "#E57399",
-    "WHITE_500": "#FBFBFF"
+    "WHITE_500": "#FBFBFF",
+    "RED_100": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_200": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_300": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_345": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_360": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_400": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_430": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_460": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_500": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_530": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_560": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_600": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "RED_700": [
+      "#F7C5D4",
+      "#E57399"
+    ]
   },
   "plus": {
     "version": "0",
