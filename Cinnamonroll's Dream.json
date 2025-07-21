@@ -1,5 +1,5 @@
 {
-  "name": "Cinnamoroll's Dream",
+  "name": "Cinnamoroll's Dream v2.0",
   "description": "A soft and cute theme based on Sanrio's Cinnamoroll, inspired by your home screen.",
   "authors": [
     {
@@ -7,134 +7,155 @@
       "id": "633831826414239757"
     }
   ],
+  "background": {
+    "blur": 0,
+    "url": "https://github.com/zryr/Themes/blob/main/1000024277.jpg?raw=true",
+    "alpha": 0.4
+  },
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#FFFFFF"
-    ],
-    "HEADER_SECONDARY": [
-      "#C0C8CF"
-    ],
-    "TEXT_NORMAL": [
-      "#FFFFFF"
-    ],
-    "TEXT_MUTED": [
-      "#C0C8CF"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#E1D4C5"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#A8D1E5"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#a2acb3"
-    ],
-    "BACKGROUND_PRIMARY": [
+      "#FBFBFF",
       "#2A3241"
     ],
-    "BACKGROUND_SECONDARY": [
-      "#242B38"
+    "HEADER_SECONDARY": [
+      "#C8D1D9",
+      "#5A6472"
     ],
-    "BACKGROUND_SECONDARY_ALT": [
+    "TEXT_NORMAL": [
+      "#FBFBFF",
+      "#2A3241"
+    ],
+    "TEXT_MUTED": [
+      "#C8D1D9",
+      "#677382"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E1D4C5",
+      "#B5A696"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#A8D1E5",
+      "#94B9CC"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FBFBFF",
       "#202631"
     ],
+    "INTERACTIVE_MUTED": [
+      "#a2acb3",
+      "#A2ACB3"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2A3241",
+      "#EDF2F7"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#242B38",
+      "#E1E7ED"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#202631",
+      "#DAE1E8"
+    ],
     "BACKGROUND_TERTIARY": [
-      "#1E232E"
+      "#1E232E",
+      "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "BACKGROUND_FLOATING": [
-      "#222834"
+      "#222834",
+      "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#2A3241"
+      "#2A3241",
+      "#EDF2F7"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#242B38"
+      "#242B38",
+      "#E1E7ED"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#222834"
+      "#222834",
+      "#E1E7ED"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(168, 209, 229, 0.1)"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(168, 209, 229, 0.1)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(168, 209, 229, 0.1)",
       "rgba(168, 209, 229, 0.2)"
     ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(168, 209, 229, 0.1)",
+      "rgba(0, 0, 0, 0.05)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(168, 209, 229, 0.2)",
+      "rgba(0, 0, 0, 0.08)"
+    ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(168, 209, 229, 0.25)"
+      "rgba(168, 209, 229, 0.25)",
+      "rgba(168, 209, 229, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(0, 0, 0, 0.2)"
+      "rgba(0, 0, 0, 0.2)",
+      "rgba(0, 0, 0, 0.04)"
     ],
     "MENTION_FOREGROUND": [
-        "#F7C5D4"
+      "#F7C5D4",
+      "#F7C5D4"
+    ],
+    "MENTION_BACKGROUND": [
+      "rgba(247, 197, 212, 0.15)",
+      "rgba(247, 197, 212, 0.3)"
     ],
     "SCROLLBAR_THIN_THUMB": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "SCROLLBAR_THIN_TRACK": [
+      "transparent",
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "SCROLLBAR_AUTO_TRACK": [
+      "#E1D4C5",
       "#E1D4C5"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#B8C1C8"
+      "#C8D1D9",
+      "#677382"
     ],
     "CHANNELS_DEFAULT": [
-      "#B8C1C8"
+      "#C8D1D9",
+      "#677382"
     ],
     "TEXT_LINK": [
-      "#A8D1E5"
+      "#A8D1E5",
+      "#8EAFC2"
     ],
     "TEXT_DANGER": [
-      "#F7C5D4"
+      "#F7C5D4",
+      "#E5AAB9"
     ],
     "KEYBOARD": [
-      "#222834"
+      "#222834",
+      "#E1E7ED"
     ],
     "CHANNEL_ICON": [
-      "#C0C8CF"
-    ],
-    "CHAT_BACKGROUND": [
-      "#2A3241"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#202631"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#2A3241"
-    ],
-    "CARD_SECONDARY_BG": [
-      "#202631"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#A8D1E5"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#1E232E"
-    ],
-    "BG_BACKDROP": [
-      "rgba(0,0,0,0.3)"
+      "#C8D1D9",
+      "#5A6472"
     ]
   },
   "rawColors": {
     "PRIMARY_500": "#A8D1E5",
-    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_100": "#FBFBFF",
     "PRIMARY_200": "#E1D4C5",
     "PRIMARY_300": "#A8D1E5",
-    "PRIMARY_360": "#C0C8CF",
+    "PRIMARY_360": "#C8D1D9",
     "PRIMARY_400": "#A8D1E5",
     "PRIMARY_600": "#2A3241",
     "PRIMARY_630": "#242B38",
@@ -148,12 +169,7 @@
     "YELLOW_300": "#E1D4C5",
     "GREEN_600": "#E1D4C5",
     "RED_400": "#F7C5D4",
-    "WHITE_500": "#FFFFFF"
-  },
-  "background": {
-    "blur": 0,
-    "url": "https://github.com/zryr/Themes/raw/main/1000024277.jpg",
-    "alpha": 0.35
+    "WHITE_500": "#FBFBFF"
   },
   "plus": {
     "version": "0",
@@ -195,9 +211,9 @@
       "ic_ban_24px": "#F7C5D4",
       "ic_big_arrow_down": "#A8D1E5",
       "ic_call_ended": "#F7C5D4",
-      "ic_chat_bubble_12px": "#C0C8CF",
-      "ic_chat_bubble_16px": "#C0C8CF",
-      "ic_chat_bubble_32px": "#C0C8CF",
+      "ic_chat_bubble_12px": "#C8D1D9",
+      "ic_chat_bubble_16px": "#C8D1D9",
+      "ic_chat_bubble_32px": "#C8D1D9",
       "ic_check": "#E1D4C5",
       "ic_check__overlay": "#2A3241",
       "ic_chevron_down_24px": "#A8D1E5",
@@ -210,35 +226,35 @@
       "ic_close_18px": "#F7C5D4",
       "ic_close_24px": "#F7C5D4",
       "ic_crown_16px": "#E1D4C5",
-      "ic_dm": "#C0C8CF",
+      "ic_dm": "#C8D1D9",
       "ic_download_24px": "#E1D4C5",
       "ic_double_down_arrow": "#A8D1E5",
       "ic_duplicate": "#E1D4C5",
       "ic_edit_20px": "#E1D4C5",
       "ic_edit_24px": "#E1D4C5",
       "ic_expand_more_24px": "#A8D1E5",
-      "ic_filter": "#C0C8CF",
+      "ic_filter": "#C8D1D9",
       "ic_friends_list_24px": "#A8D1E5",
       "ic_friend_wave_24px": "#A8D1E5",
-      "ic_gear": "#C0C8CF",
+      "ic_gear": "#C8D1D9",
       "ic_gif_24px": "#A8D1E5",
       "ic_gift": "#E1D4C5",
       "ic_gift_24px": "#E1D4C5",
-      "ic_group_dm": "#C0C8CF",
+      "ic_group_dm": "#C8D1D9",
       "ic_group_edit_18px": "#E1D4C5",
       "ic_header_members_add_24px": "#E1D4C5",
-      "ic_help_24px": "#C0C8CF",
+      "ic_help_24px": "#C8D1D9",
       "ic_info_24px": "#A8D1E5",
       "ic_invite": "#E1D4C5",
       "ic_jump_to_bottom_24px": "#A8D1E5",
       "ic_launch": "#A8D1E5",
       "ic_link": "#A8D1E5",
       "ic_link_24px": "#A8D1E5",
-      "ic_locale_24px": "#C0C8CF",
+      "ic_locale_24px": "#C8D1D9",
       "ic_logout_24px": "#F7C5D4",
       "ic_mark_unread": "#F7C5D4",
-      "ic_members": "#C0C8CF",
-      "ic_members_24px": "#C0C8CF",
+      "ic_members": "#C8D1D9",
+      "ic_members_24px": "#C8D1D9",
       "ic_mention_24px": "#F7C5D4",
       "ic_mention_user": "#F7C5D4",
       "ic_message_copy": "#E1D4C5",
@@ -248,15 +264,15 @@
       "ic_mic_neutral": "#A8D1E5",
       "ic_mic_muted_neutral": "#F7C5D4",
       "ic_minimize": "#A8D1E5",
-      "ic_my_account_24px": "#C0C8CF",
-      "ic_notification_settings": "#C0C8CF",
-      "ic_notification_settings_24px": "#C0C8CF",
+      "ic_my_account_24px": "#C8D1D9",
+      "ic_notification_settings": "#C8D1D9",
+      "ic_notification_settings_24px": "#C8D1D9",
       "ic_pencil_24px": "#E1D4C5",
       "ic_person_add": "#E1D4C5",
       "ic_person_add_18px": "#E1D4C5",
       "ic_person_waving": "#A8D1E5",
       "ic_privacy_24px": "#F7C5D4",
-      "ic_profile_24px": "#C0C8CF",
+      "ic_profile_24px": "#C8D1D9",
       "ic_radio_circle_checked": "#A8D1E5",
       "ic_radio_circle_checked__overlay": "#2A3241",
       "ic_radio_square_24px": "#A8D1E5",
@@ -268,13 +284,13 @@
       "ic_robot_24px": "#A8D1E5",
       "ic_selection_checked_24px": "#A8D1E5",
       "ic_selection_checked_24px__overlay": "#2A3241",
-      "ic_selection_none_24px": "#C0C8CF",
+      "ic_selection_none_24px": "#C8D1D9",
       "ic_search_24px": "#A8D1E5",
       "ic_search_items_24px": "#A8D1E5",
-      "ic_settings": "#C0C8CF",
+      "ic_settings": "#C8D1D9",
       "ic_settings_boost_24px": "#F7C5D4",
-      "ic_settings_white_24px": "#C0C8CF",
-      "ic_settings_grey_24px": "#C0C8CF",
+      "ic_settings_white_24px": "#C8D1D9",
+      "ic_settings_grey_24px": "#C8D1D9",
       "ic_show_password": "#A8D1E5",
       "ic_soundboard": "#A8D1E5",
       "ic_soundboard_muted": "#F7C5D4",
@@ -293,18 +309,18 @@
       "icon-qs-links": "#A8D1E5",
       "icon-search": "#A8D1E5",
       "KeyIcon": "#F7C5D4",
-      "LanguageIcon": "#C0C8CF",
+      "LanguageIcon": "#C8D1D9",
       "LinkIcon": "#A8D1E5",
       "MagnifyingGlassIcon": "#A8D1E5",
       "member_list_badge_16px": "#E1D4C5",
-      "Messages": "#C0C8CF",
+      "Messages": "#C8D1D9",
       "pencil": "#E1D4C5",
       "PencilIcon": "#E1D4C5",
       "PhoneCallIcon": "#A8D1E5",
       "pipit": "#A8D1E5",
       "ScreenIcon": "#A8D1E5",
-      "settings": "#C0C8CF",
-      "SettingsIcon": "#C0C8CF",
+      "settings": "#C8D1D9",
+      "SettingsIcon": "#C8D1D9",
       "search": "#A8D1E5",
       "Search": "#A8D1E5",
       "ShieldIcon": "#F7C5D4",
