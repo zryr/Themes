@@ -1,0 +1,156 @@
+{
+  "name": "Cinnamoroll Dream (Cyan Night)",
+  "description": "An alternative version with a dark cyan background. By Syshi.",
+  "authors": [
+    {
+      "name": "Syshi",
+      "id": "1068030255455015013"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FBFBFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B8C1C8"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFF"
+    ],
+    "TEXT_MUTED": [
+      "#B8C1C8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#DDC3A5"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#A8D1E5"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FBFBFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#a2acb3"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#253F4D"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#203642"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1C2E38"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1C2E38"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#A8D1E5"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1A2A33"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#253F4D"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#203642"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1A2A33"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(168, 209, 229, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(168, 209, 229, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(168, 209, 229, 0.2)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(168, 209, 229, 0.25)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(0, 0, 0, 0.2)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#A8D1E5"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#A8D1E5"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#DDC3A5"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#B8C1C8"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#B8C1C8"
+    ],
+    "TEXT_LINK": [
+      "#A8D1E5"
+    ],
+    "TEXT_DANGER": [
+      "#F7C5D4"
+    ],
+    "KEYBOARD": [
+      "#1A2A33"
+    ],
+    "CHANNEL_ICON": [
+      "#B8C1C8"
+    ],
+    "CHAT_BACKGROUND": [
+      "#253F4D"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#1C2E38"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#253F4D"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#1C2E38"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#A8D1E5"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#1C2E38"
+    ],
+    "BG_BACKDROP": [
+      "rgba(0,0,0,0.3)"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#A8D1E5",
+    "PRIMARY_100": "#FBFBFF",
+    "PRIMARY_200": "#DDC3A5",
+    "PRIMARY_300": "#A8D1E5",
+    "PRIMARY_360": "#B8C1C8",
+    "PRIMARY_400": "#A8D1E5",
+    "PRIMARY_600": "#253F4D",
+    "PRIMARY_630": "#203642",
+    "PRIMARY_660": "#1C2E38",
+    "PRIMARY_700": "#253F4D",
+    "PRIMARY_800": "#1C2E38",
+    "BRAND_260": "#DDC3A5",
+    "BRAND_360": "#A8D1E5",
+    "BRAND_500": "#A8D1E5",
+    "BRAND_560": "#A8D1E5",
+    "YELLOW_300": "#DDC3A5",
+    "GREEN_600": "#DDC3A5",
+    "RED_400": "#F7C5D4",
+    "WHITE_500": "#FBFBFF"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://i.pinimg.com/originals/c8/2c/79/c82c79a4073359d646b1981429909b02.jpg",
+    "alpha": 0.2
+  },
+  "spec": 2
+}
