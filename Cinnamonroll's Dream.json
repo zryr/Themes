@@ -1,5 +1,5 @@
 {
-  "name": "Cinnamoroll's Dream v6.2",
+  "name": "Cinnamoroll's Dream v7.0",
   "description": "A soft and cute theme based on Sanrio's Cinnamoroll with vibrant, readable accents.",
   "authors": [
     {
@@ -141,6 +141,14 @@
       "#F7C5D4",
       "#E57399"
     ],
+    "CHANNEL_MENTIONS_BADGE": [
+      "#F7C5D4",
+      "#E57399"
+    ],
+    "BOTTOM_NAV_BADGE_BACKGROUND_COLOR": [
+      "#F7C5D4",
+      "#E57399"
+    ],
     "KEYBOARD": [
       "#222834",
       "#E1E7ED"
@@ -168,7 +176,7 @@
     "BRAND_560": "#A8D1E5",
     "YELLOW_300": "#F3C48C",
     "GREEN_600": "#F3C48C",
-    "RED_400": "#F7C5D4",
+    "RED_400": "#E57399",
     "WHITE_500": "#FBFBFF"
   },
   "plus": {
