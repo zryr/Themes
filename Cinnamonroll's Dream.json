@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v3.0 (Light Only)",
-  "description": "A soft and cute light-only theme based on Sanrio's Cinnamoroll.",
+  "name": "Cinnamoroll's Dream v2.0",
+  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, inspired by your home screen.",
   "authors": [
     {
       "name": "Syshi",
@@ -8,126 +8,160 @@
     }
   ],
   "background": {
-    "blur": 5,
+    "blur": 0,
     "url": "https://github.com/zryr/Themes/blob/main/1000024277.jpg?raw=true",
-    "alpha": 0.45
+    "alpha": 0.4
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
+      "#FBFBFF",
       "#2A3241"
     ],
     "HEADER_SECONDARY": [
+      "#C8D1D9",
       "#5A6472"
     ],
     "TEXT_NORMAL": [
+      "#FBFBFF",
       "#2A3241"
     ],
     "TEXT_MUTED": [
+      "#C8D1D9",
       "#677382"
     ],
     "INTERACTIVE_NORMAL": [
-      "#E1D4C5"
+      "#E1D4C5",
+      "#B5A696"
     ],
     "INTERACTIVE_HOVER": [
-      "#A8D1E5"
+      "#A8D1E5",
+      "#94B9CC"
     ],
     "INTERACTIVE_ACTIVE": [
+      "#FBFBFF",
       "#202631"
     ],
     "INTERACTIVE_MUTED": [
+      "#a2acb3",
       "#A2ACB3"
     ],
     "BACKGROUND_PRIMARY": [
+      "#2A3241",
       "#EDF2F7"
     ],
     "BACKGROUND_SECONDARY": [
+      "#242B38",
       "#E1E7ED"
     ],
     "BACKGROUND_SECONDARY_ALT": [
+      "#202631",
       "#DAE1E8"
     ],
     "BACKGROUND_TERTIARY": [
+      "#1E232E",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "BACKGROUND_FLOATING": [
+      "#222834",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
+      "#2A3241",
       "#EDF2F7"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
+      "#242B38",
       "#E1E7ED"
     ],
     "BACKGROUND_NESTED_FLOATING": [
+      "#222834",
       "#E1E7ED"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(168, 209, 229, 0.1)",
       "rgba(168, 209, 229, 0.2)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(168, 209, 229, 0.1)",
       "rgba(0, 0, 0, 0.05)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(168, 209, 229, 0.2)",
       "rgba(0, 0, 0, 0.08)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(168, 209, 229, 0.25)",
       "rgba(168, 209, 229, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(0, 0, 0, 0.2)",
       "rgba(0, 0, 0, 0.04)"
     ],
     "MENTION_FOREGROUND": [
+      "#F7C5D4",
       "#F7C5D4"
     ],
     "MENTION_BACKGROUND": [
+      "rgba(247, 197, 212, 0.15)",
       "rgba(247, 197, 212, 0.3)"
     ],
     "SCROLLBAR_THIN_THUMB": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "SCROLLBAR_THIN_TRACK": [
+      "transparent",
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
+      "#A8D1E5",
       "#A8D1E5"
     ],
     "SCROLLBAR_AUTO_TRACK": [
+      "#E1D4C5",
       "#E1D4C5"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#C8D1D9",
       "#677382"
     ],
     "CHANNELS_DEFAULT": [
+      "#C8D1D9",
       "#677382"
     ],
     "TEXT_LINK": [
+      "#A8D1E5",
       "#8EAFC2"
     ],
     "TEXT_DANGER": [
-      "#F7C5D4"
+      "#F7C5D4",
+      "#E5AAB9"
     ],
     "KEYBOARD": [
+      "#222834",
       "#E1E7ED"
     ],
     "CHANNEL_ICON": [
+      "#C8D1D9",
       "#5A6472"
     ]
   },
   "rawColors": {
     "PRIMARY_500": "#A8D1E5",
-    "PRIMARY_100": "#2A3241",
+    "PRIMARY_100": "#FBFBFF",
     "PRIMARY_200": "#E1D4C5",
     "PRIMARY_300": "#A8D1E5",
-    "PRIMARY_360": "#5A6472",
-    "PRIMARY_400": "#8EAFC2",
-    "PRIMARY_600": "#EDF2F7",
-    "PRIMARY_630": "#E1E7ED",
-    "PRIMARY_660": "#DAE1E8",
-    "PRIMARY_700": "#FFFFFF",
-    "PRIMARY_800": "#FFFFFF",
+    "PRIMARY_360": "#C8D1D9",
+    "PRIMARY_400": "#A8D1E5",
+    "PRIMARY_600": "#2A3241",
+    "PRIMARY_630": "#242B38",
+    "PRIMARY_660": "#1E232E",
+    "PRIMARY_700": "#2A3241",
+    "PRIMARY_800": "#1E232E",
     "BRAND_260": "#E1D4C5",
     "BRAND_360": "#A8D1E5",
     "BRAND_500": "#A8D1E5",
@@ -135,7 +169,7 @@
     "YELLOW_300": "#E1D4C5",
     "GREEN_600": "#E1D4C5",
     "RED_400": "#F7C5D4",
-    "WHITE_500": "#2A3241"
+    "WHITE_500": "#FBFBFF"
   },
   "plus": {
     "version": "0",
