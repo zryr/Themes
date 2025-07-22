@@ -1,6 +1,6 @@
 {
   "name": "Cinnamoroll's Dream (Definitive Edition)",
-  "description": "The final, polished version of the Cinnamoroll theme, with a fully themed UI and refined chat experience.",
+  "description": "The final, polished version of the Cinnamoroll theme, with refined accents and a fully themed UI.",
   "authors": [
     {
       "name": "Syshi",
@@ -98,8 +98,8 @@
       "rgba(168, 209, 229, 0.3)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(168, 209, 229, 0.25)",
-      "rgba(168, 209, 229, 0.4)"
+      "rgba(242, 182, 160, 0.25)",
+      "rgba(242, 182, 160, 0.4)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(168, 209, 229, 0.15)",
@@ -117,7 +117,11 @@
       "#242B38",
       "#D1D8DE"
     ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+    "CHAT_INPUT_BACKGROUND": [
+      "#202631",
+      "#E1E7ED"
+    ],
+    "CHAT_BACKGROUND_INPUT_CONTAINER": [
       "#202631",
       "#E1E7ED"
     ],
