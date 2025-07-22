@@ -1,5 +1,5 @@
 {
-  "name": "Cinnamoroll's Dream",
+  "name": "Cinnamoroll's Dream v18.0",
   "description": "A soft and cute theme based on Sanrio's Cinnamoroll.",
   "authors": [
     {
@@ -104,6 +104,14 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(0, 0, 0, 0.2)",
       "rgba(0, 0, 0, 0.04)"
+    ],
+    "BORDER_SUBTLE": [
+      "#202631",
+      "#D1D8DE"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#A8D1E5",
+      "#A8D1E5"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#242B38",
@@ -364,6 +372,11 @@
       "stack-nav-close": "#F7C5D4",
       "star": "#F3C48C",
       "StarOutlineIcon": "#F3C48C",
+      "StatusOnline": "#89CFF0",
+      "StatusIdle": "#FBC574",
+      "StatusDND": "#E57399",
+      "StatusOffline": "#a2acb3",
+      "StatusStreaming": "#B19CD9",
       "trash": "#F7C5D4",
       "TrashIcon": "#F7C5D4",
       "TriangleExclamationPointIcon": "#F7C5D4",
