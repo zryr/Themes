@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v13.0",
-  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a new font and final visual fixes.",
+  "name": "Cinnamoroll's Dream v15.0",
+  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a new bubbly font and final visual fixes.",
   "authors": [
     {
       "name": "Syshi",
@@ -8,15 +8,15 @@
     }
   ],
   "background": {
-    "blur": 2,
+    "blur": 1,
     "url": "https://github.com/zryr/Themes/blob/main/1000024277.jpg?raw=true",
     "alpha": 0.4
   },
   "fonts": {
-    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Regular.ttf",
-    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Medium.ttf",
-    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-SemiBold.ttf",
-    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Bold.ttf"
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
