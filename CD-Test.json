@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v19.0",
-  "description": "The final, polished version of the Cinnamoroll theme, with a new accent color and fully themed UI components.",
+  "name": "Cinnamoroll's Dream v20.0 (Final)",
+  "description": "The final, polished version of the Cinnamoroll theme, with a clear and distinct selected channel state.",
   "authors": [
     {
       "name": "Syshi",
@@ -98,8 +98,8 @@
       "rgba(0, 0, 0, 0.08)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "linear-gradient(90deg, rgba(168, 209, 229, 0.25), rgba(168, 209, 229, 0.15))",
-      "linear-gradient(90deg, rgba(168, 209, 229, 0.3), rgba(168, 209, 229, 0.2))"
+      "rgba(242, 182, 160, 0.25)",
+      "rgba(242, 182, 160, 0.4)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(0, 0, 0, 0.2)",
