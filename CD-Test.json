@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v20.0 (Final)",
-  "description": "The final, polished version of the Cinnamoroll theme, with a clear and distinct selected channel state.",
+  "name": "Cinnamoroll's Dream v21.0",
+  "description": "A polished and dynamic version of the Cinnamoroll theme, featuring simulated chat bubbles and a fully themed UI.",
   "authors": [
     {
       "name": "Syshi",
@@ -86,8 +86,12 @@
       "rgba(237, 242, 247, 0.7)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(168, 209, 229, 0.1)",
-      "rgba(168, 209, 229, 0.2)"
+      "rgba(242, 182, 160, 0.1)",
+      "rgba(242, 182, 160, 0.2)"
+    ],
+    "MESSAGE_HIGHLIGHT_BG": [
+      "rgba(242, 182, 160, 0.2)",
+      "rgba(242, 182, 160, 0.3)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "rgba(168, 209, 229, 0.1)",
@@ -109,9 +113,13 @@
       "#202631",
       "#D1D8DE"
     ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#F2B6A0",
+      "#F2B6A0"
+    ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#A8D1E5",
-      "#A8D1E5"
+      "#F2B6A0",
+      "#F2B6A0"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#242B38",
@@ -119,7 +127,7 @@
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#202631",
-      "#E1E7ED"
+      "#DAE1E8"
     ],
     "MENTION_FOREGROUND": [
       "#F7C5D4",
