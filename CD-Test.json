@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v12.0",
-  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a working custom font and final visual fixes.",
+  "name": "Cinnamoroll's Dream v13.0",
+  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a new font and final visual fixes.",
   "authors": [
     {
       "name": "Syshi",
@@ -13,10 +13,10 @@
     "alpha": 0.4
   },
   "fonts": {
-    "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/static/Nunito-Regular.ttf",
-    "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/static/Nunito-Regular.ttf",
-    "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/static/Nunito-SemiBold.ttf",
-    "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/static/Nunito-Bold.ttf"
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Regular.ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Medium.ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-SemiBold.ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/poppins/Poppins-Bold.ttf"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
