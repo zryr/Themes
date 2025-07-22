@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v10.0",
-  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, now with a custom font and other visual enhancements.",
+  "name": "Cinnamoroll's Dream v11.0",
+  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a new font and final visual fixes.",
   "authors": [
     {
       "name": "Syshi",
@@ -13,10 +13,10 @@
     "alpha": 0.4
   },
   "fonts": {
-    "ggsans-Medium": "https://github.com/google/fonts/raw/main/ofl/quicksand/Quicksand%5Bwght%5D.ttf",
-    "ggsans-Normal": "https://github.com/google/fonts/raw/main/ofl/quicksand/Quicksand%5Bwght%5D.ttf",
-    "ggsans-Semibold": "https://github.com/google/fonts/raw/main/ofl/quicksand/Quicksand%5Bwght%5D.ttf",
-    "ggsans-Bold": "https://github.com/google/fonts/raw/main/ofl/quicksand/Quicksand%5Bwght%5D.ttf"
+    "ggsans-Medium": "https://github.com/google/fonts/raw/main/ofl/nunito/Nunito-Regular.ttf",
+    "ggsans-Normal": "https://github.com/google/fonts/raw/main/ofl/nunito/Nunito-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/google/fonts/raw/main/ofl/nunito/Nunito-SemiBold.ttf",
+    "ggsans-Bold": "https://github.com/google/fonts/raw/main/ofl/nunito/Nunito-Bold.ttf"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -86,6 +86,10 @@
     "BACKGROUND_NESTED_FLOATING": [
       "#222834",
       "#E1E7ED"
+    ],
+    "BG_BACKDROP": [
+      "rgba(42, 50, 65, 0.7)",
+      "rgba(237, 242, 247, 0.7)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(168, 209, 229, 0.1)",
