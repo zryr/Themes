@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v15.0",
-  "description": "A soft and cute theme based on Sanrio's Cinnamoroll, with a new bubbly font and final visual fixes.",
+  "name": "Cinnamoroll's Dream v17.0",
+  "description": "A polished and cohesive version of the Cinnamoroll theme with frosted glass, custom statuses, and other visual enhancements.",
   "authors": [
     {
       "name": "Syshi",
@@ -11,12 +11,6 @@
     "blur": 1,
     "url": "https://github.com/zryr/Themes/blob/main/1000024277.jpg?raw=true",
     "alpha": 0.4
-  },
-  "fonts": {
-    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
-    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
-    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf",
-    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/fredokaone/FredokaOne-Regular.ttf"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -72,8 +66,8 @@
       "#A8D1E5"
     ],
     "BACKGROUND_FLOATING": [
-      "#222834",
-      "#FFFFFF"
+      "rgba(34, 40, 52, 0.85)",
+      "rgba(255, 255, 255, 0.85)"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#2A3241",
@@ -84,8 +78,8 @@
       "#E1E7ED"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#222834",
-      "#E1E7ED"
+      "rgba(34, 40, 52, 0.85)",
+      "rgba(225, 231, 237, 0.85)"
     ],
     "BG_BACKDROP": [
       "rgba(42, 50, 65, 0.7)",
@@ -110,6 +104,14 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(0, 0, 0, 0.2)",
       "rgba(0, 0, 0, 0.04)"
+    ],
+    "BORDER_SUBTLE": [
+      "#202631",
+      "#D1D8DE"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#A8D1E5",
+      "#A8D1E5"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#242B38",
@@ -370,6 +372,11 @@
       "stack-nav-close": "#F7C5D4",
       "star": "#F3C48C",
       "StarOutlineIcon": "#F3C48C",
+      "StatusOnline": "#A8D1E5",
+      "StatusIdle": "#F3C48C",
+      "StatusDND": "#F7C5D4",
+      "StatusOffline": "#a2acb3",
+      "StatusStreaming": "#C3B1E1",
       "trash": "#F7C5D4",
       "TrashIcon": "#F7C5D4",
       "TriangleExclamationPointIcon": "#F7C5D4",
