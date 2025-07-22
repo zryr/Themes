@@ -1,6 +1,6 @@
 {
   "name": "Cinnamoroll's Dream",
-  "description": "The final, polished version of the Cinnamoroll theme, with a new accent color and fully themed UI components.",
+  "description": "A soft dreamy theme based on Cinnamonroll's dreams 💤",
   "authors": [
     {
       "name": "Syshi",
@@ -95,15 +95,15 @@
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(168, 209, 229, 0.2)",
-      "rgba(0, 0, 0, 0.08)"
+      "rgba(168, 209, 229, 0.3)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "linear-gradient(90deg, rgba(168, 209, 229, 0.25), rgba(168, 209, 229, 0.15))",
-      "linear-gradient(90deg, rgba(168, 209, 229, 0.3), rgba(168, 209, 229, 0.2))"
+      "rgba(168, 209, 229, 0.25)",
+      "rgba(168, 209, 229, 0.4)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(0, 0, 0, 0.2)",
-      "rgba(0, 0, 0, 0.04)"
+      "rgba(168, 209, 229, 0.15)",
+      "rgba(168, 209, 229, 0.25)"
     ],
     "BORDER_SUBTLE": [
       "#202631",
@@ -176,6 +176,22 @@
     "CHANNEL_ICON": [
       "#C8D1D9",
       "#5A6472"
+    ],
+    "CHAT_REPLY_BAR": [
+      "#A8D1E5",
+      "#A8D1E5"
+    ],
+    "CHAT_REPLY_BG": [
+      "rgba(168, 209, 229, 0.1)",
+      "rgba(168, 209, 229, 0.2)"
+    ],
+    "CHAT_DATE_SEPARATOR_BG": [
+      "rgba(242, 182, 160, 0.15)",
+      "rgba(242, 182, 160, 0.3)"
+    ],
+    "CHAT_DATE_SEPARATOR_LINE": [
+      "#F2B6A0",
+      "#F2B6A0"
     ]
   },
   "rawColors": {
@@ -197,14 +213,6 @@
     "YELLOW_300": "#F2B6A0",
     "GREEN_600": "#F2B6A0",
     "WHITE_500": "#FBFBFF",
-    "SWITCH_BACKGROUND": [
-      "#202631",
-      "#D1D8DE"
-    ],
-    "SWITCH_FOREGROUND": [
-      "#FBFBFF",
-      "#FFFFFF"
-    ],
     "RED_100": "#E57399",
     "RED_200": "#E57399",
     "RED_260": "#E57399",
@@ -298,7 +306,7 @@
       "ic_help_24px": "#C8D1D9",
       "ic_info_24px": "#A8D1E5",
       "ic_invite": "#F2B6A0",
-      "ic_jump_to_bottom_24px": "#A8D1E5",
+      "ic_jump_to_bottom_24px": "#F2B6A0",
       "ic_launch": "#A8D1E5",
       "ic_link": "#F2B6A0",
       "ic_link_24px": "#F2B6A0",
