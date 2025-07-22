@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream v17.0",
-  "description": "A polished and cohesive version of the Cinnamoroll theme with frosted glass, custom statuses, and other visual enhancements.",
+  "name": "Cinnamoroll's Dream v18.0",
+  "description": "A polished and stable version of the Cinnamoroll theme with vibrant status colors and themed borders.",
   "authors": [
     {
       "name": "Syshi",
@@ -66,8 +66,8 @@
       "#A8D1E5"
     ],
     "BACKGROUND_FLOATING": [
-      "rgba(34, 40, 52, 0.85)",
-      "rgba(255, 255, 255, 0.85)"
+      "#222834",
+      "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#2A3241",
@@ -78,8 +78,8 @@
       "#E1E7ED"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "rgba(34, 40, 52, 0.85)",
-      "rgba(225, 231, 237, 0.85)"
+      "#222834",
+      "#E1E7ED"
     ],
     "BG_BACKDROP": [
       "rgba(42, 50, 65, 0.7)",
@@ -372,11 +372,11 @@
       "stack-nav-close": "#F7C5D4",
       "star": "#F3C48C",
       "StarOutlineIcon": "#F3C48C",
-      "StatusOnline": "#A8D1E5",
-      "StatusIdle": "#F3C48C",
-      "StatusDND": "#F7C5D4",
+      "StatusOnline": "#89CFF0",
+      "StatusIdle": "#FBC574",
+      "StatusDND": "#E57399",
       "StatusOffline": "#a2acb3",
-      "StatusStreaming": "#C3B1E1",
+      "StatusStreaming": "#B19CD9",
       "trash": "#F7C5D4",
       "TrashIcon": "#F7C5D4",
       "TriangleExclamationPointIcon": "#F7C5D4",
