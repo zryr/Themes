@@ -1,6 +1,6 @@
 {
-  "name": "Cinnamoroll's Dream",
-  "description": "A soft, dreamy theme based on Cinnamonroll's dreams 💤.",
+  "name": "Cinnamoroll's Dream (Enhanced)",
+  "description": "A soft, dreamy theme based on Cinnamoroll's dreams 💤. Now with an improved color scheme!",
   "authors": [
     {
       "name": "Syshi",
@@ -10,7 +10,7 @@
   "background": {
     "blur": 1,
     "url": "https://github.com/zryr/Themes/blob/main/1000024277.jpg?raw=true",
-    "alpha": 0.4
+    "alpha": 0.2
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -62,12 +62,12 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#A8D1E5",
-      "#A8D1E5"
+      "#BEE1F2",
+      "#BEE1F2"
     ],
     "BACKGROUND_FLOATING": [
-      "#222834",
-      "#FFFFFF"
+      "#2A3241",
+      "#F2F2F2"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#2A3241",
@@ -126,8 +126,8 @@
       "#E1E7ED"
     ],
     "MENTION_FOREGROUND": [
-      "#F7C5D4",
-      "#F7C5D4"
+      "#F2B6A0",
+      "#F2B6A0"
     ],
     "MENTION_BACKGROUND": [
       "rgba(247, 197, 212, 0.15)",
