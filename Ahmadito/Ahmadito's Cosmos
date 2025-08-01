@@ -1,5 +1,5 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v3.5",
+  "name": "Ahmadito's Cosmos ✨ v3.6",
   "description": "The definitive monochrome, space-inspired theme inspired by AV99.",
   "authors": [
     {
@@ -90,20 +90,20 @@
       "rgba(0, 0, 0, 0.02)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#27272A",
+      "#111113",
       "rgba(114,118,125,0.2)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#43444C",
+      "#111113",
       "rgba(114,118,125,0.3)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#43444C",
+      "#111113",
       "rgba(114,118,125,0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#43444C",
-      "#43444C"
+      "#111113",
+      "#111113"
     ],
     "BORDER_SUBTLE": [
       "#43444C",
