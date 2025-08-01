@@ -1,5 +1,5 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v3.1",
+  "name": "Ahmadito's Cosmos ✨ v3.3",
   "description": "The definitive monochrome, space-inspired theme inspired by AV99.",
   "authors": [
     {
@@ -62,8 +62,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#43444C",
-      "#43444C"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "BACKGROUND_FLOATING": [
       "#1B1B1E",
@@ -102,8 +102,8 @@
       "rgba(114,118,125,0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(255, 255, 255, 0.1)",
-      "rgba(0, 0, 0, 0.1)"
+      "#43444C",
+      "#43444C"
     ],
     "BORDER_SUBTLE": [
       "#43444C",
@@ -114,12 +114,12 @@
       "#8A8C9B"
     ],
     "CHANNEL_MENTIONS_BADGE": [
-      "#FFFFFF",
-      "#000000"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "BOTTOM_NAV_BADGE_BACKGROUND_COLOR": [
-      "#FFFFFF",
-      "#000000"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "CHANNELS_DEFAULT": [
       "#8A8C9B",
@@ -181,11 +181,11 @@
     "PRIMARY_600": "#1B1B1E",
     "PRIMARY_700": "#111113",
     "PRIMARY_800": "#000000",
-    "BRAND_260": "#DCDDE4",
-    "BRAND_500": "#DCDDE4",
+    "BRAND_260": "#8A8C9B",
+    "BRAND_500": "#8A8C9B",
     "WHITE_500": "#FFFFFF",
     "BLACK_500": "#000000",
-    "RED_400": "#F04747"
+    "RED_400": "#8A8C9B"
   },
   "plus": {
     "version": "0",
@@ -199,12 +199,12 @@
       "arrow-down": "#DCDDE4",
       "ArrowLargeLeftIcon": "#DCDDE4",
       "arrow-sm-down": "#DCDDE4",
-      "AtIcon": "#000000",
+      "AtIcon": "#8A8C9B",
       "Audio": "#DCDDE4",
       "back-icon": "#DCDDE4",
       "CircleExclamationPointIcon": "#F04747",
       "ChannelNotificationIcon-primary": "#DCDDE4",
-      "ChannelNotificationIcon-secondary": "#000000",
+      "ChannelNotificationIcon-secondary": "#8A8C9B",
       "ChannelListMagnifyingGlassIcon": "#DCDDE4",
       "ChatMarkUnreadIcon": "#FFFFFF",
       "ChevronSmallDownIcon": "#DCDDE4",
@@ -272,8 +272,8 @@
       "ic_mark_unread": "#FFFFFF",
       "ic_members": "#8A8C9B",
       "ic_members_24px": "#8A8C9B",
-      "ic_mention_24px": "#000000",
-      "ic_mention_user": "#000000",
+      "ic_mention_24px": "#8A8C9B",
+      "ic_mention_user": "#8A8C9B",
       "ic_message_copy": "#DCDDE4",
       "ic_message_delete": "#F04747",
       "ic_message_edit": "#DCDDE4",
