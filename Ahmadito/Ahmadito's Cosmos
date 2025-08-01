@@ -1,5 +1,5 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v2.2",
+  "name": "Ahmadito's Cosmos ✨ v2.3",
   "description": "A fully monochrome, space-inspired theme inspired by AV99, with a focus on clarity and minimalism.",
   "authors": [
     {
@@ -134,8 +134,8 @@
       "#DCDDE4"
     ],
     "TEXT_LINK": [
-      "#DCDDE4",
-      "#43444C"
+      "#FFFFFF",
+      "#000000"
     ],
     "TEXT_DANGER": [
       "#FF5C5C",
