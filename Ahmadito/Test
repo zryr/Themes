@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v1.1",
-  "description": "A sleek, space-inspired theme based on Ahmadito's profile picture.",
+  "name": "Ahmadito's Cosmos ✨ v1.2",
+  "description": "A sleek, space-inspired theme with refined UI elements for clarity and style.",
   "authors": [
     {
       "name": "AV99",
@@ -8,7 +8,7 @@
     }
   ],
   "background": {
-    "blur": 0,
+    "blur": 1,
     "url": "https://raw.githubusercontent.com/zryr/Themes/main/Ahmadito/1000025222.jpg",
     "alpha": 0.6
   },
@@ -62,8 +62,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#DCDDE4",
-      "#43444C"
+      "#89CFF0",
+      "#89CFF0"
     ],
     "BACKGROUND_FLOATING": [
       "#27272A",
@@ -98,8 +98,8 @@
       "rgba(0, 0, 0, 0.05)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.1)",
-      "rgba(0, 0, 0, 0.08)"
+      "#43444C",
+      "#E6E7EB"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
@@ -112,6 +112,10 @@
     "CHAT_INPUT_BACKGROUND": [
       "#222226",
       "#FFFFFF"
+    ],
+    "CHAT_REPLY_BAR": [
+      "#89CFF0",
+      "#89CFF0"
     ],
     "TEXT_LINK": [
       "#89CFF0",
@@ -128,6 +132,10 @@
     "MENTION_BACKGROUND": [
       "rgba(137, 207, 240, 0.1)",
       "rgba(137, 207, 240, 0.2)"
+    ],
+    "KEYBOARD": [
+      "#222226",
+      "#E1E7ED"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#43444C",
@@ -332,4 +340,4 @@
     }
   },
   "spec": 2
-}
+} 
