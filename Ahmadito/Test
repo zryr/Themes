@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v1.6",
-  "description": "A sleek, space-inspired theme inspired by AV99, fully corrected for mobile UI consistency.",
+  "name": "Ahmadito's Cosmos ✨ v1.7",
+  "description": "A sleek, space-inspired theme inspired by AV99, corrected for all known mobile UI bugs.",
   "authors": [
     {
       "name": "AV99",
@@ -78,8 +78,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#222226",
-      "#222226"
+      "#111113",
+      "#111113"
     ],
     "BG_BACKDROP": [
       "rgba(17, 17, 19, 0.75)",
@@ -98,12 +98,16 @@
       "rgba(0, 0, 0, 0.08)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.2)",
-      "rgba(255, 255, 255, 0.2)"
+      "rgba(255, 255, 255, 0.35)",
+      "rgba(255, 255, 255, 0.35)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
       "transparent"
+    ],
+    "CHANNEL_MENTIONS_BADGE": [
+      "#FF5C5C",
+      "#FF5C5C"
     ],
     "CHANNELS_DEFAULT": [
       "#8A8C9B",
@@ -118,7 +122,7 @@
       "rgba(0, 0, 0, 0.1)"
     ],
     "CHAT_INPUT_BACKGROUND": [
-      "#1B1B1E",
+      "#111113",
       "#FFFFFF"
     ],
     "CHAT_REPLY_BAR": [
