@@ -1,5 +1,5 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v2.6",
+  "name": "Ahmadito's Cosmos ✨ v2.7",
   "description": "A fully monochrome, space-inspired theme inspired by AV99, with a focus on clarity and minimalism.",
   "authors": [
     {
@@ -114,12 +114,12 @@
       "#8A8C9B"
     ],
     "CHANNEL_MENTIONS_BADGE": [
-      "#F04747",
-      "#F04747"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "BOTTOM_NAV_BADGE_BACKGROUND_COLOR": [
-      "#F04747",
-      "#F04747"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "CHANNELS_DEFAULT": [
       "#8A8C9B",
@@ -198,12 +198,12 @@
       "arrow-down": "#DCDDE4",
       "ArrowLargeLeftIcon": "#DCDDE4",
       "arrow-sm-down": "#DCDDE4",
-      "AtIcon": "#F04747",
+      "AtIcon": "#8A8C9B",
       "Audio": "#DCDDE4",
       "back-icon": "#DCDDE4",
       "CircleExclamationPointIcon": "#F04747",
       "ChannelNotificationIcon-primary": "#DCDDE4",
-      "ChannelNotificationIcon-secondary": "#F04747",
+      "ChannelNotificationIcon-secondary": "#8A8C9B",
       "ChannelListMagnifyingGlassIcon": "#DCDDE4",
       "ChatMarkUnreadIcon": "#FFFFFF",
       "ChevronSmallDownIcon": "#DCDDE4",
@@ -271,8 +271,8 @@
       "ic_mark_unread": "#FFFFFF",
       "ic_members": "#8A8C9B",
       "ic_members_24px": "#8A8C9B",
-      "ic_mention_24px": "#F04747",
-      "ic_mention_user": "#F04747",
+      "ic_mention_24px": "#8A8C9B",
+      "ic_mention_user": "#8A8C9B",
       "ic_message_copy": "#DCDDE4",
       "ic_message_delete": "#F04747",
       "ic_message_edit": "#DCDDE4",
