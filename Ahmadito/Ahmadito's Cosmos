@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v2.1",
-  "description": "A sleek, space-inspired theme inspired by AV99, with full structural corrections for UI clarity.",
+  "name": "Ahmadito's Cosmos ✨ v2.2",
+  "description": "A fully monochrome, space-inspired theme inspired by AV99, with a focus on clarity and minimalism.",
   "authors": [
     {
       "name": "AV99",
@@ -8,7 +8,7 @@
     }
   ],
   "background": {
-    "blur": 1,
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/zryr/Themes/refs/heads/main/Ahmadito/1000025245.jpg",
     "alpha": 0.7
   },
@@ -62,8 +62,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#89CFF0",
-      "#89CFF0"
+      "#43444C",
+      "#43444C"
     ],
     "BACKGROUND_FLOATING": [
       "#1B1B1E",
@@ -106,12 +106,12 @@
       "transparent"
     ],
     "BORDER_SUBTLE": [
-      "#202631",
+      "#43444C",
       "#D1D8DE"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#89CFF0",
-      "#89CFF0"
+      "#8A8C9B",
+      "#8A8C9B"
     ],
     "CHANNEL_MENTIONS_BADGE": [
       "#FF5C5C",
@@ -130,24 +130,24 @@
       "#EBEDEF"
     ],
     "CHAT_REPLY_BAR": [
-      "#89CFF0",
-      "#89CFF0"
+      "#DCDDE4",
+      "#DCDDE4"
     ],
     "TEXT_LINK": [
-      "#89CFF0",
-      "#89CFF0"
+      "#DCDDE4",
+      "#43444C"
     ],
     "TEXT_DANGER": [
       "#FF5C5C",
       "#FF5C5C"
     ],
     "MENTION_FOREGROUND": [
-      "#89CFF0",
-      "#89CFF0"
+      "#DCDDE4",
+      "#43444C"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(137, 207, 240, 0.15)",
-      "rgba(137, 207, 240, 0.25)"
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(0, 0, 0, 0.1)"
     ],
     "KEYBOARD": [
       "#111113",
@@ -177,8 +177,8 @@
     "PRIMARY_600": "#1B1B1E",
     "PRIMARY_700": "#111113",
     "PRIMARY_800": "#000000",
-    "BRAND_260": "#89CFF0",
-    "BRAND_500": "#89CFF0",
+    "BRAND_260": "#DCDDE4",
+    "BRAND_500": "#DCDDE4",
     "WHITE_500": "#FFFFFF",
     "BLACK_500": "#000000",
     "RED_400": "#FF5C5C"
@@ -340,7 +340,7 @@
       "stack-nav-close": "#FF5C5C",
       "star": "#DCDDE4",
       "StarOutlineIcon": "#DCDDE4",
-      "StatusOnline": "#89CFF0",
+      "StatusOnline": "#DCDDE4",
       "StatusIdle": "#FBC574",
       "StatusDND": "#FF5C5C",
       "StatusOffline": "#8A8C9B",
