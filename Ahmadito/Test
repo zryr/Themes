@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v1.4",
-  "description": "A sleek, space-inspired theme inspired by AV99, refined for mobile clarity.",
+  "name": "Ahmadito's Cosmos ✨ v1.6",
+  "description": "A sleek, space-inspired theme inspired by AV99.",
   "authors": [
     {
       "name": "AV99",
@@ -10,20 +10,20 @@
   "background": {
     "blur": 1,
     "url": "https://raw.githubusercontent.com/zryr/Themes/main/Ahmadito/1000025222.jpg",
-    "alpha": 0.6
+    "alpha": 0.65
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#FFFFFF",
-      "#1B1B1E"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
       "#8A8C9B",
-      "#43444C"
+      "#B0B3B8"
     ],
     "TEXT_NORMAL": [
       "#DCDDE4",
-      "#1B1B1E"
+      "#000000"
     ],
     "TEXT_MUTED": [
       "#8A8C9B",
@@ -35,30 +35,30 @@
     ],
     "INTERACTIVE_HOVER": [
       "#FFFFFF",
-      "#1B1B1E"
+      "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF",
-      "#1B1B1E"
+      "#000000"
     ],
     "INTERACTIVE_MUTED": [
       "#43444C",
       "#8A8C9B"
     ],
     "BACKGROUND_PRIMARY": [
-      "#161618",
-      "#F0F1F5"
+      "#111113",
+      "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#27272A",
-      "#FFFFFF"
+      "#1B1B1E",
+      "#F2F3F5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#222226",
-      "#E6E7EB"
+      "#E3E5E8"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1B1B1E",
+      "#111113",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,24 +66,24 @@
       "#89CFF0"
     ],
     "BACKGROUND_FLOATING": [
-      "#27272A",
+      "#1B1B1E",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1B1B1E",
-      "#F0F1F5"
+      "#111113",
+      "#F2F3F5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#27272A",
+      "#1B1B1E",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1B1B1E",
-      "#F0F1F5"
+      "#222226",
+      "#222226"
     ],
     "BG_BACKDROP": [
-      "rgba(27, 27, 30, 0.7)",
-      "rgba(240, 241, 245, 0.7)"
+      "rgba(17, 17, 19, 0.75)",
+      "rgba(242, 243, 245, 0.75)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.05)",
@@ -98,8 +98,8 @@
       "rgba(0, 0, 0, 0.08)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.1)",
-      "rgba(0, 0, 0, 0.1)"
+      "rgba(255, 255, 255, 0.2)",
+      "rgba(255, 255, 255, 0.2)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
@@ -118,7 +118,7 @@
       "rgba(0, 0, 0, 0.1)"
     ],
     "CHAT_INPUT_BACKGROUND": [
-      "#161618",
+      "#1B1B1E",
       "#FFFFFF"
     ],
     "CHAT_REPLY_BAR": [
@@ -142,37 +142,37 @@
       "rgba(137, 207, 240, 0.25)"
     ],
     "KEYBOARD": [
-      "#222226",
-      "#222226"
+      "#111113",
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#43444C",
-      "#8A8C9B"
+      "#27272A",
+      "#C7C9CC"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#43444C",
-      "#8A8C9B"
+      "#27272A",
+      "#C7C9CC"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#1B1B1E",
-      "#F0F1F5"
+      "transparent",
+      "transparent"
     ]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_360": "#8A8C9B",
     "PRIMARY_500": "#DCDDE4",
-    "PRIMARY_600": "#43444C",
-    "PRIMARY_700": "#161618",
-    "PRIMARY_800": "#111113",
+    "PRIMARY_600": "#1B1B1E",
+    "PRIMARY_700": "#111113",
+    "PRIMARY_800": "#000000",
     "BRAND_260": "#89CFF0",
     "BRAND_500": "#89CFF0",
     "WHITE_500": "#FFFFFF",
-    "BLACK_500": "#1B1B1E",
+    "BLACK_500": "#000000",
     "RED_400": "#FF5C5C"
   },
   "plus": {
