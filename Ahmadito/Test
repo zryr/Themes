@@ -1,5 +1,5 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v2.0",
+  "name": "Ahmadito's Cosmos ✨ v2.1",
   "description": "A sleek, space-inspired theme inspired by AV99, with full structural corrections for UI clarity.",
   "authors": [
     {
@@ -9,7 +9,7 @@
   ],
   "background": {
     "blur": 1,
-    "url": "https://raw.githubusercontent.com/zryr/Themes/main/Ahmadito/1000025222.jpg",
+    "url": "https://raw.githubusercontent.com/zryr/Themes/refs/heads/main/Ahmadito/1000025245.jpg",
     "alpha": 0.7
   },
   "semanticColors": {
@@ -104,6 +104,14 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
       "transparent"
+    ],
+    "BORDER_SUBTLE": [
+      "#202631",
+      "#D1D8DE"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#89CFF0",
+      "#89CFF0"
     ],
     "CHANNEL_MENTIONS_BADGE": [
       "#FF5C5C",
