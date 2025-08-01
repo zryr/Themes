@@ -1,1 +1,155 @@
-
+{
+  "name": "Ahmadito's Cosmos ✨",
+  "description": "A sleek, space-inspired theme based on AV's profile picture.",
+  "authors": [
+    {
+      "name": "Ahmadito",
+      "id": "YourDiscordID"
+    }
+  ],
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/zryr/Themes/refs/heads/main/Ahmadito/1000025214.png",
+    "alpha": 0.5
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#DCDDE4",
+      "#1B1B1E"
+    ],
+    "HEADER_SECONDARY": [
+      "#8A8C9B",
+      "#43444C"
+    ],
+    "TEXT_NORMAL": [
+      "#DCDDE4",
+      "#1B1B1E"
+    ],
+    "TEXT_MUTED": [
+      "#8A8C9B",
+      "#43444C"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#DCDDE4",
+      "#43444C"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF",
+      "#1B1B1E"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF",
+      "#1B1B1E"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#43444C",
+      "#8A8C9B"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1B1B1E",
+      "#F0F1F5"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#43444C",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#222226",
+      "#E6E7EB"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1B1B1E",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#DCDDE4",
+      "#43444C"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#27272A",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1B1B1E",
+      "#F0F1F5"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#43444C",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1B1B1E",
+      "#F0F1F5"
+    ],
+    "BG_BACKDROP": [
+      "rgba(27, 27, 30, 0.7)",
+      "rgba(240, 241, 245, 0.7)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.05)",
+      "rgba(0, 0, 0, 0.02)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.05)",
+      "rgba(0, 0, 0, 0.02)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.08)",
+      "rgba(0, 0, 0, 0.05)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(0, 0, 0, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "transparent"
+    ],
+    "BORDER_SUBTLE": [
+      "#43444C",
+      "#DCDDE4"
+    ],
+    "CHAT_INPUT_BACKGROUND": [
+      "#222226",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#DCDDE4",
+      "#43444C"
+    ],
+    "TEXT_DANGER": [
+      "#FF5C5C",
+      "#FF5C5C"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#43444C",
+      "#8A8C9B"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#43444C",
+      "#8A8C9B"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1B1B1E",
+      "#F0F1F5"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_360": "#8A8C9B",
+    "PRIMARY_500": "#DCDDE4",
+    "PRIMARY_600": "#43444C",
+    "PRIMARY_700": "#1B1B1E",
+    "PRIMARY_800": "#111113",
+    "BRAND_260": "#DCDDE4",
+    "BRAND_500": "#DCDDE4",
+    "WHITE_500": "#FFFFFF",
+    "BLACK_500": "#1B1B1E",
+    "RED_400": "#FF5C5C"
+  },
+  "spec": 2
+}
