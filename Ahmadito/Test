@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v1.2",
-  "description": "A sleek, space-inspired theme with refined UI elements for clarity and style.",
+  "name": "Ahmadito's Cosmos ✨ v1.4",
+  "description": "A sleek, space-inspired theme inspired by AV99, refined for mobile clarity.",
   "authors": [
     {
       "name": "AV99",
@@ -14,7 +14,7 @@
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#DCDDE4",
+      "#FFFFFF",
       "#1B1B1E"
     ],
     "HEADER_SECONDARY": [
@@ -46,11 +46,11 @@
       "#8A8C9B"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1B1B1E",
+      "#161618",
       "#F0F1F5"
     ],
     "BACKGROUND_SECONDARY": [
-      "#43444C",
+      "#27272A",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -74,7 +74,7 @@
       "#F0F1F5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#43444C",
+      "#27272A",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -90,27 +90,35 @@
       "rgba(0, 0, 0, 0.02)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.05)",
-      "rgba(0, 0, 0, 0.02)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.08)",
+      "rgba(255, 255, 255, 0.07)",
       "rgba(0, 0, 0, 0.05)"
     ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(0, 0, 0, 0.08)"
+    ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#43444C",
-      "#E6E7EB"
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(0, 0, 0, 0.1)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
       "transparent"
     ],
+    "CHANNELS_DEFAULT": [
+      "#8A8C9B",
+      "#43444C"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#8A8C9B",
+      "#677382"
+    ],
     "BORDER_SUBTLE": [
-      "#43444C",
-      "#DCDDE4"
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(0, 0, 0, 0.1)"
     ],
     "CHAT_INPUT_BACKGROUND": [
-      "#222226",
+      "#161618",
       "#FFFFFF"
     ],
     "CHAT_REPLY_BAR": [
@@ -130,12 +138,12 @@
       "#89CFF0"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(137, 207, 240, 0.1)",
-      "rgba(137, 207, 240, 0.2)"
+      "rgba(137, 207, 240, 0.15)",
+      "rgba(137, 207, 240, 0.25)"
     ],
     "KEYBOARD": [
       "#222226",
-      "#E1E7ED"
+      "#222226"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#43444C",
@@ -159,7 +167,7 @@
     "PRIMARY_360": "#8A8C9B",
     "PRIMARY_500": "#DCDDE4",
     "PRIMARY_600": "#43444C",
-    "PRIMARY_700": "#1B1B1E",
+    "PRIMARY_700": "#161618",
     "PRIMARY_800": "#111113",
     "BRAND_260": "#89CFF0",
     "BRAND_500": "#89CFF0",
@@ -340,4 +348,4 @@
     }
   },
   "spec": 2
-} 
+}
