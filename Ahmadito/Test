@@ -1,6 +1,6 @@
 {
-  "name": "Ahmadito's Cosmos ✨ v1.7",
-  "description": "A sleek, space-inspired theme inspired by AV99, corrected for all known mobile UI bugs.",
+  "name": "Ahmadito's Cosmos ✨ v2.0",
+  "description": "A sleek, space-inspired theme inspired by AV99, with full structural corrections for UI clarity.",
   "authors": [
     {
       "name": "AV99",
@@ -10,20 +10,20 @@
   "background": {
     "blur": 1,
     "url": "https://raw.githubusercontent.com/zryr/Themes/main/Ahmadito/1000025222.jpg",
-    "alpha": 0.65
+    "alpha": 0.7
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#FFFFFF",
-      "#FFFFFF"
+      "#000000"
     ],
     "HEADER_SECONDARY": [
-      "#8A8C9B",
-      "#B0B3B8"
+      "#B0B3B8",
+      "#4F545C"
     ],
     "TEXT_NORMAL": [
       "#DCDDE4",
-      "#000000"
+      "#060607"
     ],
     "TEXT_MUTED": [
       "#8A8C9B",
@@ -31,22 +31,22 @@
     ],
     "INTERACTIVE_NORMAL": [
       "#DCDDE4",
-      "#43444C"
+      "#4F545C"
     ],
     "INTERACTIVE_HOVER": [
       "#FFFFFF",
       "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
-      "#000000"
+      "#43444C",
+      "#72767D"
     ],
     "INTERACTIVE_MUTED": [
       "#43444C",
       "#8A8C9B"
     ],
     "BACKGROUND_PRIMARY": [
-      "#111113",
+      "#27272A",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
@@ -54,7 +54,7 @@
       "#F2F3F5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#222226",
+      "#111113",
       "#E3E5E8"
     ],
     "BACKGROUND_TERTIARY": [
@@ -70,11 +70,11 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#111113",
+      "#1B1B1E",
       "#F2F3F5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1B1B1E",
+      "#111113",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -90,16 +90,16 @@
       "rgba(0, 0, 0, 0.02)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.07)",
-      "rgba(0, 0, 0, 0.05)"
+      "#27272A",
+      "rgba(114,118,125,0.2)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.1)",
-      "rgba(0, 0, 0, 0.08)"
+      "#43444C",
+      "rgba(114,118,125,0.3)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.35)",
-      "rgba(255, 255, 255, 0.35)"
+      "#43444C",
+      "rgba(114,118,125,0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
@@ -111,19 +111,15 @@
     ],
     "CHANNELS_DEFAULT": [
       "#8A8C9B",
-      "#43444C"
+      "#4F545C"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#8A8C9B",
       "#677382"
     ],
-    "BORDER_SUBTLE": [
-      "rgba(255, 255, 255, 0.1)",
-      "rgba(0, 0, 0, 0.1)"
-    ],
     "CHAT_INPUT_BACKGROUND": [
       "#111113",
-      "#FFFFFF"
+      "#EBEDEF"
     ],
     "CHAT_REPLY_BAR": [
       "#89CFF0",
